@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid
+        android:color="@android:color/white" /> <!-- Ubah warna latar belakang sesuai dengan preferensi Anda -->
+    <stroke
+        android:width="3dp"
+        android:color="@color/Grey"/>
+    <corners android:radius="30dp" /> <!-- Ubah nilai radius sesuai dengan tingkat lengkungan yang Anda inginkan -->
+</shape>
